@@ -17,3 +17,15 @@ Dans le cadre de ce projet, on se propose de résoudre ce problème en implémen
 Dans ce repository, on retrouve les 3 parties du notebook global du projet : l'écriture des algorithmes, les tests, et une dernière partie remettant en cause la modélisation mathématique du problème, soulevant certaines questions éthiques. 
 
 Une version pdf du projet est aussi disponible (*notebook.pdf*).
+
+
+## Contributors
+Lucas OFFROY & Mathias LOMMEL
+
+---------------------------------------
+Recherche Operationnelle
+
+Département __Mathématiques Appliquées__
+
+INSA Rennes, 2023-2024
+
