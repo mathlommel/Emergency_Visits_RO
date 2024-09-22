@@ -23,7 +23,7 @@ Une version pdf du projet est aussi disponible (*notebook.pdf*).
 Lucas OFFROY & Mathias LOMMEL
 
 ---------------------------------------
-Recherche Operationnelle
+Recherche Opérationnelle
 
 Département __Mathématiques Appliquées__
 
