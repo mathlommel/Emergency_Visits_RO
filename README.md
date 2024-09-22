@@ -12,6 +12,8 @@ Dans le cadre de ce projet, on se propose de résoudre ce problème en implémen
 - 1er Branch and Bound : Pour chaque noeud *i* de l'arbre, on crée un noeud fils pour chaque patient *j* non traité, que l'on traitera en positon *i*.
 - 2nd Branch and Bound : On remarque que les pénalités interviennent majoritairement à la fin de l'arbre. On propose donc de réaliser la même règle de branchement, en partant de la fin (à chaque noeud *i* de l'arbre, on crée un noeud fils pour chaque patient *j* non traité, que l'on traitera en position *n-i*.
 - 3e Branch and Bound : Ce dernier algorithme est plus général, et sera basé sur la relaxation de la modélisation en programme linéaire du problème.
-- Et enfin, un programme linéaire sera créé, et résolu via un solver (ici la librairie JuMP de Julia sera utilisé).
+- Et enfin, un programme linéaire sera créé, et résolu via un solver (ici la librairie JuMP de Julia sera utilisée).
 
-Dans ce repository, on retrouve les 3 parties du notebook global du projet : l'écriture des algorithmes, les tests, et une dernière partie remettant en cause la modélisation mathématique du problème, soulevant certaines questions éthiques. Une version pdf du projet est aussi disponible (*notebook.pdf*).
+Dans ce repository, on retrouve les 3 parties du notebook global du projet : l'écriture des algorithmes, les tests, et une dernière partie remettant en cause la modélisation mathématique du problème, soulevant certaines questions éthiques. 
+
+Une version pdf du projet est aussi disponible (*notebook.pdf*).
